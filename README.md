@@ -1,2 +1,2 @@
 ## Ranu Group
-Landing page
+Template HTML landing page untuk perusahaan Ranu Group Indonesia
